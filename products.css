@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-products-section-header {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.ecommerce-products-section-card1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.ecommerce-products-section-card {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.ecommerce-products-section-card-header {
+    color: white;
+}
+
+.ecommerce-products-section-card-para {
+    color: white;
+}
+
+.ecommerce-products-section-card-button {
+    color: #ff9f00;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.modal-title {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.ecommerce-products-card-modal-description {
+    color: #323f4b;
+}
+
+.ecommerce-products-card-modal-list-item-category {
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.see-all-offers-section {
+    color: #ff9f00;
+    font-weight: bold;
+
+}
